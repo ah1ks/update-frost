@@ -1,1 +1,1 @@
-{"notes": "Update check error handling and diagnostics. Full English UI.", "url": "https://github.com/ah1ks/update-frost/releases/download/v1.2.1/FrostOptimizations.exe", "version": "1.2.1"}
+{"notes": "Fixed updater (no stale cache, verified download), autostart via Task Scheduler, tray icon survives Explorer restart.", "url": "https://github.com/ah1ks/update-frost/releases/download/v1.2.2/FrostOptimizations.exe", "version": "1.2.2"}
